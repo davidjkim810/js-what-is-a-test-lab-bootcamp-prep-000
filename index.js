@@ -14,3 +14,8 @@ var d = 'hello'
 var e = 'goodbye'
 
 function doNothing() {}
+function sayHello() {
+  console.log('Hello!')
+}
+
+sayHello()
