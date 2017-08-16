@@ -25,3 +25,15 @@ function sayHelloToIsabel() {
 }
 
 sayHelloToIsabel()
+
+function sayHelloToSofia() {
+  console.log("Hello, Sofia!")
+}
+
+sayHelloToSofia()
+
+function sayHelloToBrendan(){
+  console.log("Hello, Brendan!")
+}
+
+sayHelloToBrendan()
