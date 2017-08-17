@@ -1,10 +1,1 @@
-// write your code below!
-var name = "Susan"
-var height = 38
-var message = `Susan is ${height} inches tall`
-
-module.exports = {name, height, message}
-
-function sayHello() {
-  console.log('Hello!')
-}
+sayHello()
